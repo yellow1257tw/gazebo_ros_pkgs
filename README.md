@@ -1,3 +1,6 @@
+# my_change
+make gazebo_ros_openni_kinect.cpp from z-forward & x-top to x-forward & z-top
+
 # gazebo_ros_pkgs
 
 [![Build Status](http://build.ros.org/buildStatus/icon?job=Kpr__gazebo_ros_pkgs__ubuntu_xenial_amd64)](http://build.ros.org/job/Kpr__gazebo_ros_pkgs__ubuntu_xenial_amd64)
